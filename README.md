@@ -1,6 +1,6 @@
-# Project 3 - *Tweeter Part 1*
+# Project 3 - *Tweets Reader*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Tweets Reader** is a basic twitter app to read your tweets.
 
 Time spent: **5** hours spent in total
 
