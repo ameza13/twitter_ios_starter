@@ -40,7 +40,7 @@
                         <viewLayoutGuide key="safeArea" id="sR4-O5-pzi"/>
                     </view>
                     <connections>
-                        <segue destination="Tou-TK-J7s" kind="show" identifier="loginToHome" id="Z7C-nu-hyP"/>
+                        <segue destination="Tou-TK-J7s" kind="presentation" identifier="loginToHome" id="Cp2-uq-Sjc"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="04F-hH-bs0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -147,7 +147,7 @@
                         <barButtonItem key="rightBarButtonItem" title="Tweet" id="WBE-r2-5zj">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <segue destination="0Ih-Po-0JO" kind="show" id="qG9-NN-E4A"/>
+                                <segue destination="0Ih-Po-0JO" kind="presentation" id="VQw-gb-h7a"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
